@@ -1,0 +1,13 @@
+#INFO,Version=0.0.2,Template= eBay-draft-listings-template_US,,,,,,,,
+#INFO Action and Category ID are required fields. 1) Set Action to Draft 2) Please find the category ID for your listings here: https://pages.ebay.com/sellerinformation/news/categorychanges.html,,,,,,,,,,
+"#INFO After you've successfully uploaded your draft from the Seller Hub Reports tab, complete your drafts to active listings here: https://www.ebay.com/sh/lst/drafts",,,,,,,,,,
+#INFO,,,,,,,,,,
+Action(SiteID=US|Country=US|Currency=USD|Version=1193|CC=UTF-8),Custom label (SKU),Category ID,Title,UPC,Price,Quantity,Item photo URL,Condition ID,Description,Format
+Draft,071,47140,1991-93 Deathwatch 2000 Armor Ms Mystic CyberRad -NEW- multi list You Pick!,,5.00,10,,,,FixedPrice
+Draft,072,47140,Continuity CyberRad No 1 Vol 2 1992 hologram cover 1A,,2.50,2,,Like New,bagged/boarded,FixedPrice
+Draft,073,47140,TMNT #77 Invasion of the Triceratons pt 2 IDW 2017 1st print,,3.00,1,,Like New,bagged/boarded,FixedPrice
+Draft,074,47140,Solar Man of the Atom Vol 1 #23 1993 Valiant,,3.00,1,,Like New,bagged/boarded,FixedPrice
+Draft,075,47140,Battlestar Galactica: Six Vol 1 #4 Dynamite 2015,,2.00,1,,Like New,,FixedPrice
+Draft,076,47140,Magnus Robot Fighter & Nexus Valiant Dark Horse 1993 Vol 1 #1,,3.50,1,,Like New,,FixedPrice
+Draft,077,47140,SUSPIRA The Great Working #1 cvr A 1997 Chaos Comics,,2.00,1,,Very Good,,FixedPrice
+Draft,078,47140,Shi vs. Tomoe #1 Crusade Special 1996 Crusade Comics ,,2.50,1,,Like New,,FixedPrice
